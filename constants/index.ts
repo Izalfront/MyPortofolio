@@ -13,18 +13,6 @@ export const FRONTEND_SKILL = [] as const;
 
 export const FULLSTACK_SKILL = [
   {
-    skill_name: 'HTML',
-    image: 'html.png',
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: 'CSS',
-    image: 'css.png',
-    width: 80,
-    height: 80,
-  },
-  {
     skill_name: 'JavaScript',
     image: 'js.png',
     width: 65,
@@ -33,12 +21,6 @@ export const FULLSTACK_SKILL = [
   {
     skill_name: 'Tailwind CSS',
     image: 'tailwind.png',
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: 'Material UI',
-    image: 'mui.png',
     width: 80,
     height: 80,
   },
