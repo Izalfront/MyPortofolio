@@ -82,12 +82,21 @@ export const PROJECTS = [
     link: 'https://kesbangpol.hstkab.go.id',
   },
   {
-    title: 'Travel Website with ReactJs',
+    title: ' Landing Page Indexes Website',
     description: '',
-    image: '/projects/travel1.png',
-    link: 'https://github.com/Izalfront/Tours-Travels-Booking-Website',
+    image: '/projects/index.png',
+    link: 'https://indexwebsites.vercel.app',
   },
 ] as const;
+
+export const VIDEOINTRO = [
+  {
+    title: 'Hello I am a Frontend Developer',
+    description: 'frontend web developer from indonesia',
+    image: '/projects/asdasaas.png',
+    link: 'https://youtu.be/pelHTN6saFQ?si=_t-VM6Z_UmnvDoeN',
+  },
+];
 
 export const FOOTER_DATA = [
   {
