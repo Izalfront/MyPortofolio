@@ -76,16 +76,28 @@ export const PROJECTS = [
     link: 'https://pakar-stunting.devpro.web.id/diagnosis',
   },
   {
-    title: 'Website of the Indonesian National Political Association',
+    title: ' Website Branding Joey',
     description: '',
-    image: '/projects/kesbangpol.png',
-    link: 'https://kesbangpol.hstkab.go.id',
+    image: '/projects/joey.png',
+    link: 'https://joeybranding.vercel.app',
   },
   {
     title: ' Landing Page Indexes Website',
     description: '',
     image: '/projects/index.png',
     link: 'https://indexwebsites.vercel.app',
+  },
+  {
+    title: ' Twittr desktop UI',
+    description: '',
+    image: '/projects/aatwitter.png',
+    link: 'https://twittr-buildwithangga.vercel.app',
+  },
+  {
+    title: 'Website of the Indonesian National Political Association',
+    description: '',
+    image: '/projects/kesbangpol.png',
+    link: 'https://kesbangpol.hstkab.go.id',
   },
 ] as const;
 
