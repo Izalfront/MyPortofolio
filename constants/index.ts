@@ -94,6 +94,18 @@ export const PROJECTS = [
     link: 'https://twittr-buildwithangga.vercel.app',
   },
   {
+    title: ' Landing Page Renewable Energy',
+    description: '',
+    image: '/projects/renewableenegrgy.png',
+    link: 'https://renewable-energy.pages.dev',
+  },
+  {
+    title: ' Landing Page Akademi Crypto',
+    description: '',
+    image: '/projects/akademikripto.png',
+    link: 'https://bloomberglite.pages.dev',
+  },
+  {
     title: 'Website of the Indonesian National Political Association',
     description: '',
     image: '/projects/kesbangpol.png',
